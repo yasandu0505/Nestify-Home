@@ -1,0 +1,179 @@
+{
+	"properties": [
+        {
+            "id":1,
+            "title":"House for Rent",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"25/14 Dehiwala, Mount-Lavinia",
+            "postCode":61000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h3.jpg",
+            "pictureSet":["/propertyImages/h3.jpg","/propertyImages/h4.jpg","/propertyImages/h5.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        },
+		{
+            "id":2,
+            "title":"Apartment for Rent",
+			"type":"Flat",
+            "bedrooms":4,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"77/6 Newtown, Polonnaruwa",
+            "postCode":71000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63376.12734560852!2d79.83451366424565!3d6.889649117908978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25a2d3e1a1f1b%3A0xe505e16b84fb506e!2sThe%20Lanka%20Hospitals%20Corporation%20PLC!5e0!3m2!1sen!2slk!4v1736123093055!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h8.jpeg",
+            "pictureSet":["/propertyImages/h8.jpeg","/propertyImages/24.jpg","/propertyImages/h50.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+		{
+            "id":3,
+            "title":"Boarding Rooms",
+			"type":"Flat",
+            "bedrooms":1,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"25 Pamankada rd, Wellawatta",
+            "postCode":91000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63384.5995480978!2d79.96027498230315!3d6.825966538259401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251eaa22b9b45%3A0x83b722e628d9b138!2sBlinto%20By%20Prime%20Lands!5e0!3m2!1sen!2slk!4v1736122842417!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h9.webp",
+            "pictureSet":["/propertyImages/h9.webp","/propertyImages/h30.jpg","/propertyImages/h51.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+		{
+            "id":4,
+            "title":"House for girls",
+			"type":"House",
+            "bedrooms":3,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"33 Round Lane, Piliyandala",
+            "postCode":11000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h10.jpg",
+            "pictureSet":["/propertyImages/h10.jpg","/propertyImages/h31.jpg","/propertyImages/h52.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+		{
+            "id":5,
+            "title":"House for girls",
+			"type":"House",
+            "bedrooms":3,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"33 Round Lane, Piliyandala",
+            "postCode":41000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h11.jpeg",
+            "pictureSet":["/propertyImages/h11.jpeg","/propertyImages/h32.jpg","/propertyImages/h53.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+		{
+            "id":6,
+            "title":"House for girls",
+			"type":"House",
+            "bedrooms":3,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"33 Round Lane, Piliyandala",
+            "postCode":51000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h12.jpg",
+            "pictureSet":["/propertyImages/h12.jpg","/propertyImages/h33.jpg","/propertyImages/h54.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+		{
+            "id":7,
+            "title":"House for girls",
+			"type":"House",
+            "bedrooms":3,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"33 Round Lane, Piliyandala",
+            "postCode":31000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h13.jpeg",
+            "pictureSet":["/propertyImages/h13.jpeg","/propertyImages/h34.jpg","/propertyImages/h55.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+		{
+            "id":8,
+            "title":"House for girls",
+			"type":"House",
+            "bedrooms":3,
+			"price":399995,
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"33 Round Lane, Piliyandala",
+            "postCode":21000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h15.jpg",
+            "pictureSet":["/propertyImages/h15.jpg","/propertyImages/h35.jpg","/propertyImages/h56.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id":9,
+            "title":"House for Rehdhdhnt",
+			"type":"Flat",
+            "bedrooms":3,
+			"price":750000,
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"25/14 Dehiwala, Mount-Lavinia",
+            "postCode":61000,
+            "mapCode":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5374572316628!2d79.99889987511192!3d6.8259682931718855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251357aac4dab%3A0x190ed0b026ee611a!2sMount%20Clifford%20Range!5e0!3m2!1sen!2slk!4v1736122512698!5m2!1sen!2slk",
+            "phoneNumber":"+94 76 191 5021",
+			"picture":"propertyImages/h16.jpg",
+            "pictureSet":["/propertyImages/h16.jpg","/propertyImages/h36.jpg","/propertyImages/h57.jpg","/propertyImages/h6.jpg","/propertyImages/h7.jpg"],
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        }
+        
+]
+
+}
+
+

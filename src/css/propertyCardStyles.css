@@ -1,0 +1,82 @@
+.card-company-info {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgb(130, 219, 184, 0.08);
+  background-clip: border-box;
+  border: 2px solid #82dbb8;
+  border-radius: 0.25rem;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition for transform and box-shadow */
+}
+
+.card-company-info:hover {
+  cursor: pointer;
+  transform: scale(1.02); /* Slightly scale up the card on hover */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Box shadow on all sides */
+}
+
+.card-body-info {
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+}
+
+.card-title-fav-icon {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.fav-icon-holder {
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #53ab8b;
+  background-color: #fff;
+  color: #53ab8b;
+  border-radius: 50%;
+  transition: 0.2s linear;
+}
+
+.fav-icon-holder:hover {
+  background-color: #53ab8b;
+  color: #fff;
+}
+
+.it-is-fav{
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #53ab8b;
+  color: #fff;
+  border-radius: 50%;
+}
+
+.fav-icon-holder > i {
+  margin-top: 2px;
+}
+
+.card-img-top {
+  width: 150px !important;
+}
+
+.img-holder {
+  text-align: center; /* Centers the image horizontally */
+}
+
+.img-holder img {
+  max-width: 100%; /* Ensures the image fits within the container */
+  height: auto; /* Maintains aspect ratio */
+}

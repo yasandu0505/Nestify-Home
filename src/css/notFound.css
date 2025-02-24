@@ -1,0 +1,24 @@
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa; 
+  }
+  
+  .not-found-heading {
+    font-size: 3rem;
+    color: #53ab8b; 
+  }
+  
+  .not-found-text {
+    font-size: 1.5rem;
+    color: #343a40; 
+  }
+  
+  .redirect-message {
+    font-size: 1rem;
+    color: red; 
+  }
+  

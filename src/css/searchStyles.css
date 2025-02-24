@@ -1,0 +1,135 @@
+.search-container {
+    width: 90%;
+    margin: 0 auto;
+    justify-content: center;
+    justify-items: center;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    gap: 5px;
+
+}
+
+.dropdown {
+    position: relative;
+    flex: 1;
+}
+
+select,
+input[type='date']{
+    color: gray !important;
+    cursor: pointer;
+    -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+}
+
+
+.dropdown select,
+.dropdown input {
+    width: 100%;
+    padding: 15px;
+    color: #000000;
+    background-color: #ffffff;
+    outline: none;
+    border: 1px solid #53ab8b;
+    border-radius: 7px;
+}
+
+
+.dropdown select.form-select {
+    padding-left: 50px;
+}
+
+.dropdown input{
+    padding-left: 50px;
+}
+
+.dropdown-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #000000;
+}
+
+.search-btn {
+    flex: 0 0 auto;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 7px;
+    background-color: #53ab8b !important;
+    color: #ffffff !important;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: 0.3s ease-in-out;
+}
+
+.search-btn:hover {
+    background-color:#157759 !important;
+}
+@media all and (max-width: 992px) {
+    .search{
+        height: 200px;
+    }
+    .search-container {
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+@media all and (max-width: 576px) {
+    .search-container {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media all and (max-width: 820px) {
+    .search-container {
+        width: 80%;
+    }
+}
+
+@media (max-width: 768px) {
+    .search{
+        height: auto;
+    }
+    .search-container {
+        transform: translate(0% , -10%);
+        flex-direction: column;
+        gap: 10px;
+        color: #000000;
+        width: 70%;
+        margin: 0 auto;
+    }
+    .dropdown select,
+    .dropdown input{
+        padding: 8px;
+        color: #000000;
+        border: none;
+        border: 1px solid #53ab8b;
+    border-radius: 7px;
+    }
+
+    .dropdown-icon{
+        color: #000000;
+    }
+
+    .dropdown input{
+        padding-left: 50px;
+    }
+    
+    .dropdown,
+    .search-btn {
+        width: 100%;
+    }
+
+    .search-btn {
+        background-color: #53ab8b !important;
+        text-align: center;
+        padding: 10px;
+    }
+}
